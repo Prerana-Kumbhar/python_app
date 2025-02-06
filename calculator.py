@@ -1,5 +1,5 @@
 # Simple Python Calculator
-
+print("Simple Calculator")
 def add(x, y):
     return x + y
 
