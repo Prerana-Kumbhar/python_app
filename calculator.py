@@ -1,5 +1,6 @@
 # Simple Python Calculator
 print("Simple Calculator")
+print("Prerana Kumbhar")
 def add(x, y):
     return x + y
 
