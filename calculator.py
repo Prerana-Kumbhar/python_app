@@ -1,7 +1,7 @@
 # Simple Python Calculator
 
 #calculator by prerna
-#perana
+#peran
 def add(x, y):
     return x + y
 
