@@ -1,6 +1,7 @@
 # Simple Python Calculator
 
 #calculator by prerna
+#pulled by B
 def add(x, y):
     return x + y
 
