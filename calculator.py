@@ -1,7 +1,13 @@
 # Simple Python Calculator
 
 #calculator by prerna
+<<<<<<< HEAD
 #peran
+=======
+#pulled by B
+
+#mereg
+>>>>>>> 7e9ec6f23a304f77883c220551f9cb43b0094e60
 def add(x, y):
     return x + y
 
