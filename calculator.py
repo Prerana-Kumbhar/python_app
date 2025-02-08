@@ -1,6 +1,7 @@
 # Simple Python Calculator
+#pulled by B
 
-
+#mereg
 def add(x, y):
     return x + y
 
